@@ -1,16 +1,16 @@
 const ladder = [
-    { word: "ROCK", clue: "" },
-    { word: "ROCKET", clue: "Add two letters to _ _ _ _ to launch into space" },
+    { word: "POCKET", clue: "Storage for your clothing" },
+    { word: "ROCKET", clue: "Change one letter in _ _ _ _ to launch into space" },
     { word: "SOCKET", clue: "Change one letter in _ _ _ _ _ _ to get an electrical outlet" },
     { word: "SOCK", clue: "Remove two letters from _ _ _ _ _ _ to get footwear" },
     { word: "LOCK", clue: "Change first letter of _ _ _ _ to secure something" },
     { word: "CLOCK", clue: "Add a letter to _ _ _ _ to tell time" },
     { word: "CLOAK", clue: "Change one letter in _ _ _ _ _ _ to get a garment" },
     { word: "CROAK", clue: "Change one letter in _ _ _ _ _ to get a frog's sound" },
-    { word: "ROCK WELL", clue: "Anagram _ _ _ _ _ to get _ _ _ _ WELL" },
-    { word: "ROCKWELL", clue: "Join the two words together" },
-    { word: "ROCKWELL AUTO", clue: "Add a shortened word meaning 'car'" },
-    { word: "ROCKWELL AUTOMATION", clue: "Extend _ _ _ _ to its full form to get a company" }
+    { word: "CORK", clue: "Remove a letter and anagram to bottle stopper" },
+    { word: "ROCK", clue: "Anagram to get a piece of mineral" },
+    { word: "ROCKWELL", clue: "Combine a source of water with _ _ _ _ to get a painter's last name" },
+    { word: "ROCKWELL AUTOMATION", clue: "Add a word to _ _ _ _ _ _ _ _ to get an industrial technology company" }
 ];
 
 let answers = Array(ladder.length).fill('');
