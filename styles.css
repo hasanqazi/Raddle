@@ -1,0 +1,9 @@
+.correct-answer {
+    background-color: #d1fae5 !important;
+    border-color: #10b981 !important;
+    color: #065f46 !important;
+}
+
+.step-correct {
+    box-shadow: 0 0 0 3px rgba(16, 185, 129, 0.5);
+}
